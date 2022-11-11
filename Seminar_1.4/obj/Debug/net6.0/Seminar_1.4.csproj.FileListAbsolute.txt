@@ -1,0 +1,15 @@
+E:\C#\Seminar\Seminar_1.4\bin\Debug\net6.0\Seminar_1.4.exe
+E:\C#\Seminar\Seminar_1.4\bin\Debug\net6.0\Seminar_1.4.deps.json
+E:\C#\Seminar\Seminar_1.4\bin\Debug\net6.0\Seminar_1.4.runtimeconfig.json
+E:\C#\Seminar\Seminar_1.4\bin\Debug\net6.0\Seminar_1.4.dll
+E:\C#\Seminar\Seminar_1.4\bin\Debug\net6.0\Seminar_1.4.pdb
+E:\C#\Seminar\Seminar_1.4\obj\Debug\net6.0\Seminar_1.4.csproj.AssemblyReference.cache
+E:\C#\Seminar\Seminar_1.4\obj\Debug\net6.0\Seminar_1.4.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Seminar\Seminar_1.4\obj\Debug\net6.0\Seminar_1.4.AssemblyInfoInputs.cache
+E:\C#\Seminar\Seminar_1.4\obj\Debug\net6.0\Seminar_1.4.AssemblyInfo.cs
+E:\C#\Seminar\Seminar_1.4\obj\Debug\net6.0\Seminar_1.4.csproj.CoreCompileInputs.cache
+E:\C#\Seminar\Seminar_1.4\obj\Debug\net6.0\Seminar_1.4.dll
+E:\C#\Seminar\Seminar_1.4\obj\Debug\net6.0\refint\Seminar_1.4.dll
+E:\C#\Seminar\Seminar_1.4\obj\Debug\net6.0\Seminar_1.4.pdb
+E:\C#\Seminar\Seminar_1.4\obj\Debug\net6.0\Seminar_1.4.genruntimeconfig.cache
+E:\C#\Seminar\Seminar_1.4\obj\Debug\net6.0\ref\Seminar_1.4.dll
