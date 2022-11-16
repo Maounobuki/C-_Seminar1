@@ -2,14 +2,16 @@
 е число и удаляя вторую цифру, выводит двухзначное число*/
 
 //Математический метод
-int number = new Random().Next(100, 1000);
+/*int number = new Random().Next(100, 1000);
  Console.WriteLine(number);
 Console.WriteLine($"Число без второй цифры имеет вид: {number/100}{number%10}");
 Console.WriteLine();
 int result = (number/100)*10+number%10;
-Console.WriteLine(result);
+Console.WriteLine(result);*/
 
 //строковый метод
+ Console.WriteLine("Введите трёхзначное число : ");
+int num1 = int.Parse (Console.ReadLine());
 string num = num1.ToString();
 if(num.Length !=3){
     Console.WriteLine("Неверное число!");
