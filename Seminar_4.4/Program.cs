@@ -6,9 +6,10 @@
 
 Console.WriteLine("Введите число: ");
 int num = int.Parse(Console.ReadLine()!);
-Console.WriteLine($"Количество знаков числа: {Multiply(num)}");
 int[] array = new int[num];
-int Multiply(int array )
+Console.WriteLine($"Количество знаков числа: {Multiply(array)}");
+
+int Multiply(int [] array )
 {
     int length = array.Length;
     int index = 0;
@@ -22,10 +23,10 @@ int Multiply(int array )
       
    return mult;
 }
-Console.Write("Введите  размер массива: ");
-int n = int.Parse(Console.ReadLine());
+/*Console.Write("Введите  размер массива: ");
+int n = int.Parse(Console.ReadLine()!);
 
-int[] array = new int[n];
+int[] array = new int[n];*/
 
 
 /*Console.Write($"Произведение массива = {Proiz(array, n)}");
